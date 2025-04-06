@@ -15,3 +15,6 @@ Research Focus
 <b> Primary Research Areas:</b> Hardware Security, and Digital VLSI/CAD <br/>
 
 ------
+## 🗞️ News & Updates
+
+- 📍 **Dec 2024** – Attended DAC 2024 in San Francisco.
