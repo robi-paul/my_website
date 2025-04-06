@@ -17,4 +17,5 @@ Research Focus
 ------
 ## 🗞️ News & Updates
 
-- 📍 **Dec 2024** – Attended DAC 2024 in San Francisco.
+- **DEC 2024** - New Paper accepted to **Journal of Hardware and Systems Security** [Read PDF](https://robi-paul.github.io/files/adjoining_gate_jhass.pdf)
+- **NOV 2024** – New Paper accepted to **HOST2025** [Read PDF](https://robi-paul.github.io/files/michscan_host.pdf)
